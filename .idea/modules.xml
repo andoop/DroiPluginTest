@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DroiPluginTest.iml" filepath="$PROJECT_DIR$/DroiPluginTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DroidPluginlib/DroidPluginlib.iml" filepath="$PROJECT_DIR$/DroidPluginlib/DroidPluginlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aaa/aaa.iml" filepath="$PROJECT_DIR$/aaa/aaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbb/bbb.iml" filepath="$PROJECT_DIR$/bbb/bbb.iml" />
+    </modules>
+  </component>
+</project>
