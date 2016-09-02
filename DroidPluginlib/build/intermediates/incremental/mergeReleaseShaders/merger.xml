@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\Administrator\Desktop\domob\pro_test\DroiPluginTest\DroidPluginlib\src\main\shaders"/></dataSet><dataSet config="release"><source path="C:\Users\Administrator\Desktop\domob\pro_test\DroiPluginTest\DroidPluginlib\build-types\release\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="F:\projects\mprojects\DroiPlugin\DroidPluginlib\src\main\shaders"/></dataSet><dataSet config="release"><source path="F:\projects\mprojects\DroiPlugin\DroidPluginlib\build-types\release\shaders"/></dataSet></merger>

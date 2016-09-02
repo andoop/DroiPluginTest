@@ -1,5 +1,52 @@
 [
     {
+        "outputFile": "F:\\projects\\mprojects\\DroiPlugin\\DroidPluginlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "F:\\projects\\mprojects\\DroiPlugin\\DroidPluginlib\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 237,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 415
+                },
+                "from": {
+                    "file": "F:\\projects\\mprojects\\DroiPlugin\\DroidPluginlib\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 237,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 415
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\Administrator\\Desktop\\domob\\pro_test\\DroiPluginTest\\DroidPluginlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-v11\\values-v11.xml",
         "map": [
             {

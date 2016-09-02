@@ -1,5 +1,13 @@
 [
     {
+        "merged": "F:\\projects\\mprojects\\DroiPlugin\\DroidPluginlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\plugin_activity_loading.xml",
+        "source": "F:\\projects\\mprojects\\DroiPlugin\\DroidPluginlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\plugin_activity_loading.xml"
+    },
+    {
+        "merged": "F:\\projects\\mprojects\\DroiPlugin\\DroidPluginlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\plugin_activity_loading_bitmap.9.png",
+        "source": "F:\\projects\\mprojects\\DroiPlugin\\DroidPluginlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\plugin_activity_loading_bitmap.9.png"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Desktop\\domob\\pro_test\\DroiPluginTest\\DroidPluginlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\plugin_activity_loading_bitmap.9.png",
         "source": "C:\\Users\\Administrator\\Desktop\\domob\\pro_test\\DroiPluginTest\\DroidPluginlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\plugin_activity_loading_bitmap.9.png"
     },

@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: C:\\Users\\Administrator\\Desktop\\domob\\pro_test\\DroiPluginTest\\DroidPluginlib\\src\\android\\app\\IServiceConnection.aidl
+ * Original file: F:\\projects\\mprojects\\DroiPlugin\\DroidPluginlib\\src\\android\\app\\IServiceConnection.aidl
  */
 package android.app;
 /** @hide */

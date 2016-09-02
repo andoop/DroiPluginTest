@@ -199,8 +199,6 @@ public class ApkFragment extends ListFragment implements ServiceConnection {
                         }
                     }
                 }
-
-
                 file = new File(Environment.getExternalStorageDirectory(), "360Download");
                 if (file.exists() && file.isDirectory()) {
                     File[] files1 = file.listFiles();
@@ -211,7 +209,6 @@ public class ApkFragment extends ListFragment implements ServiceConnection {
                             }
                         }
                     }
-
                 }
                 PackageManager pm = getActivity().getPackageManager();
                 for (final File apk : apks) {

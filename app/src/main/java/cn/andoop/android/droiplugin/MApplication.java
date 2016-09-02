@@ -9,7 +9,6 @@ import com.morgoo.droidplugin.PluginHelper;
  * Created by 黄栋 on 2016/8/30.
  */
 public class MApplication extends Application{
-
     @Override
     public void onCreate() {
         super.onCreate();
@@ -19,6 +18,7 @@ public class MApplication extends Application{
 
     @Override
     protected void attachBaseContext(Context base) {
+        //调用相关方法
         PluginHelper.getInstance().applicationAttachBaseContext(base);
         super.attachBaseContext(base);
     }
