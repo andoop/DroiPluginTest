@@ -188,7 +188,7 @@ public class ApkFragment extends ListFragment implements ServiceConnection {
         new Thread("ApkScanner") {
             @Override
             public void run() {
-                File file = new File(Environment.getExternalStorageDirectory(),"aa");
+                File file = new File(Environment.getExternalStorageDirectory(),"apks");
 
                 List<File> apks = new ArrayList<File>(10);
                 File[] files = file.listFiles();
@@ -199,7 +199,7 @@ public class ApkFragment extends ListFragment implements ServiceConnection {
                         }
                     }
                 }
-                file = new File(Environment.getExternalStorageDirectory(), "360Download");
+                file = new File(Environment.getExternalStorageDirectory(), "plugins");
                 if (file.exists() && file.isDirectory()) {
                     File[] files1 = file.listFiles();
                     if (files1 != null) {

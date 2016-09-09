@@ -1,5 +1,6 @@
-## DroiPluginTest
+## DroidPluginTest
 ###[360DroidPlugin](https://github.com/Qihoo360/DroidPlugin)使用demo
+###github:https://github.com/andoop/DroiPluginTest
 
 ####DroidPlugin介绍
 >它是360手机助手团队在Android系统上实现了一种插件机制。它可以在无需安装、修改的情况下运行APK文件,此机制对改进大型APP的架构，实现多团队协作开发具有一定的好处。
